@@ -1,0 +1,7 @@
+1 1 0 0 IA 0 X 0 X                                         
+1 1 0 0 IA 1 X 0 X0                                        
+1 1 0 0 IA 0 X 0 X0     X                                  
+1 1 0 0 IA 1 X 0 X0     X0                                 
+1 1 0 0 IA 0 X 0 X0     X0     X                           
+1 1 0 0 IA 1 X 0 X0     X0     X0                          
+1 1 1 0 IA 0 X 0 X0     X0     X0     X                    

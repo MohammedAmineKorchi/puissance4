@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641420778 source:c:\users\ponsifox\desktop\projet c\amin22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
